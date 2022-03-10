@@ -1,4 +1,8 @@
-<h1 align="center"> MongoDb CheatSheet</h1>
+<h1 align="center"> MongoDb CheatSheet
+    
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+    </h1> 
+
 
 <h2 align="center"> MongoDb Database Commands
 

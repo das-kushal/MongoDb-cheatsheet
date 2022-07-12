@@ -106,6 +106,7 @@ db.CollectionName.find().pretty()
 ### To limit the number of rows we want to see
 
 <p>For Example : 2 rows</p>
+
 ```ruby
 db.CollectionName.find().pretty().limit(2)
 ```
